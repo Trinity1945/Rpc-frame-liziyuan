@@ -1,0 +1,2 @@
+kyro=serialize.kyro.KryoSerializer
+hessian=serialize.hessian.HessianSerializer
